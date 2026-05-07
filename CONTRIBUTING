@@ -1,0 +1,42 @@
+# Contributing Guidelines
+
+Thank you for considering contributing to this project!
+
+All contributions are welcome, including:
+
+- Bug reports
+- Bug fixes
+- Documentation improvements
+- Enhancements
+- New ideas and suggestions
+
+## How to Contribute
+
+1. Fork the repository
+2. Create a new branch for your feature or fix
+3. Make your changes
+4. Commit your work with clear messages
+5. Push to your forked repository
+6. Submit a Pull Request
+
+## Reporting Issues
+
+If you find a bug or have a suggestion, please open an issue and provide as much detail as possible.
+
+## Coding Standards
+
+Please write clean, readable, and well-documented code. Make sure your changes do not break existing functionality.
+
+## Pull Requests
+
+Before submitting a pull request:
+
+- Ensure your code works correctly
+- Test your changes
+- Update documentation if necessary
+
+## Community
+
+By contributing to this project, you agree to follow the project's Code of Conduct and maintain a respectful and collaborative environment.
+
+Thank you for helping improve this project!
